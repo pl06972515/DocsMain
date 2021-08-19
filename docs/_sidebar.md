@@ -1,5 +1,34 @@
-- [安装手册](docs/v1)
-- [文档效果](docs/v2)
-- **Links**
-- [![](../images/qq.svg)QQ](tencent://message/?uin=37xxxxxxx)
-- [![Github](../images/Email.svg)Email](mailto:xxxxxx@163.com)
+-  <span style='color:Red'><img src="wwwroot/images/MR.svg" alt="" style="margin-bottom:-4px" />&nbsp;在线工具</span>
+-  [⚙ 常用工具](v2.0.0)
+-  [⚙ 在线工具](e1.0.0)
+-  
+-  <span style='color:Blue'>📗内部API</span>
+-  [✡.高校版本](h1.0.0)
+-  
+-  <span style='color:Blue'>🏷浏览收藏</span>
+-  [✡ 视频课程](e5.0.0)
+-  [✡ C#](e4.0.0)
+-  [✡ 正则表达式](z1.0.0)
+-  [✡ 并行编程](e3.0.0)
+-  [✡ NET](e2.0.0)
+-  [✡ Ocelot](o1.0.0)
+-  [✡ RPC](r1.0.0)
+-  [✡ K8S](k1.0.0)
+-  [✡ MySQL](m1.0.0)
+-  [✡ EF Core](e7.0.0)
+-  [✡ MongoDB](e8.0.0)
+-  [✡ RabbitMQ](e9.0.0)
+-  [✡ 原则规范](e6.0.0)
+-  
+-  <span style='color:Blue'>🛠Vs Code</span>
+-  [✡ 配置插件](vs1.0.0)
+-  
+-  <span style='color:Blue'>🛠Visual Studio</span>
+-  [✡ 常用配置](vs2.0.0)
+-  
+-  <span style='color:Blue'>⭐Links</span>
+-  - [<span style='color:#008B00'>🟥开发平台</span>](http://oa.pm2.com.cn:3347 ':target=_blank')
+   - [<span style='color:#008B00'>🟥协作系统</span>](http://oa.pm2.com.cn:7780/ ':target=_blank')
+   - [<span style='color:#008B00'>🟩Portainer</span>](http://oa.pm2.com.cn:9000 ':target=_blank')
+   - [<span style='color:#008B00'>🟩Habor</span>](http://oa.pm2.com.cn:8087 ':target=_blank')
+

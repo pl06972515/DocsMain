@@ -1,0 +1,31 @@
+
+:root {
+	--base-font-size: 12px;
+	--modular-scale-1: 0.8rem;
+	/* 主题颜色 */
+	/* --theme-color: purple;*/
+	/* 主题色调 (0-360) */
+	/* --theme-hue: 325;*/
+	
+	--mono-saturation: 10%;
+	--duration-slow: 1s;
+	--duration-medium: 0.5s;
+	--duration-fast: 0.5s;
+	--base-line-height: 1.4;
+	
+	/* 目录宽度 */
+	--sidebar-width: 40em;
+	/* 内容宽度 */
+	--content-max-width: 90em;
+	
+	/*转义`...`区域*/
+	--code-inline-background: #FFFAF0;
+	--code-inline-color: #CD661D;
+	/*--code-font-weight: bold;*/
+	/*背景图片*/
+	/*--cover-background-image:timg.png ;*/
+	
+	/*代码区域*/
+	--code-block-padding: 1em 1.5em 1em 1.5em;
+	
+}
