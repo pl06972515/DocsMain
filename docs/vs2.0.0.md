@@ -21,4 +21,5 @@
 
 - [<span style='color:#008B00'>[👓 官方插件 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654085145&idx=7&sn=db18c0606fa24c1a92e889671d35d1d4&chksm=80d8044cb7af8d5a22508d4cf7f1d55e91404cc3d1a5202d9b931404ede0f80f07988d6877b0&mpshare=1&scene=23&srcid=0723yhpCSYGJsyonulcTlSq8&sharer_sharetime=1627002047654&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank')<span style='color:red'>`VisualStudio`配置中文提示</span>
 
-- 
+- [<span style='color:#008B00'>[👓 查看详情 ]</span>](https://mp.weixin.qq.com/s?__biz=MzU2OTY3MTYzOA==&mid=2247489128&idx=1&sn=5fe07adc412d144c24fb68242966530a&chksm=fcfa7cd1cb8df5c754eaf16eeb2d347896be22cb064cf3d40358b9e1986e150e558c31c0b59c&mpshare=1&scene=23&srcid=0923j3iLxlE4bIn6OnVVdK3e&sharer_sharetime=1632357134389&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank')<span style='color:red'>`Visual Studio`的奇淫技巧</span>
+
