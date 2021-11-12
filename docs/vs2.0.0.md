@@ -10,6 +10,10 @@
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654083344&idx=4&sn=13d20964c25bf272e4a0c80b929ef8bb&chksm=80d83d45b7afb453184830a58bc09515ab804219f06acbe32082951259adc72b90341c184424&mpshare=1&scene=23&srcid=0412dQpBSX1NN7VQNX7LiFmC&sharer_sharetime=1618191790523&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') .Net项目模板(Project Template)
 
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086664&idx=3&sn=111352cb72a6f92383fb1ae47ba98f21&chksm=80d8025db7af8b4b0f09d79de991ea022f4c016a4ab8471914f58fcca485d51acc2162e263f8&mpshare=1&scene=23&srcid=1109qwsLgxcOLAUkcFgAJZcT&sharer_sharetime=1636427556810&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') <span style='color:red'>Visual Studio 2022发布了，我最爱的5大特性</span>
+
+
+
 ## ✴  12个调试效率技巧
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484580&idx=3&sn=79f2526d9e30694307ba9574801e6abd&chksm=a69877e991effeff4403ba452953b478e6c3d0f0acd527c13d514122402ae2ab0cd937cc432f&mpshare=1&scene=23&srcid=0121yDYjvJk4USlUBvbYyoMI&sharer_sharetime=1611213164683&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') 
