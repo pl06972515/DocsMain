@@ -27,3 +27,10 @@
 
 - [<span style='color:#008B00'>[👓 查看详情 ]</span>](https://mp.weixin.qq.com/s?__biz=MzU2OTY3MTYzOA==&mid=2247489128&idx=1&sn=5fe07adc412d144c24fb68242966530a&chksm=fcfa7cd1cb8df5c754eaf16eeb2d347896be22cb064cf3d40358b9e1986e150e558c31c0b59c&mpshare=1&scene=23&srcid=0923j3iLxlE4bIn6OnVVdK3e&sharer_sharetime=1632357134389&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank')<span style='color:red'>`Visual Studio`的奇淫技巧</span>
 
+## ✴ <span style='color:red'>C# 用`IrisSkin4.dll`美化你的`WinForm`</span>
+
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086830&idx=6&sn=a72f58f59c8f934e25a3da6f5efd3135&chksm=80d802fbb7af8bedb229375a5f4ac3e3268cdba44d3cfc615b5ad9c901b6567dc193f8e0ffeb&mpshare=1&scene=23&srcid=1129cU3jdsPPCeG8s05Ohbyt&sharer_sharetime=1638182580582&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd  ':target=_blank') 
+
+## ✴ <span style='color:red'>.NET`GC`实时监控工具`dotnet gcmon`介绍</span>
+
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086870&idx=1&sn=2f9cee05f58062c43ee047937eb1ad58&chksm=80d80283b7af8b956086fe553df31c785ef0fb7d08b168b53a6e3d6e86c99a529c4fa6004786&mpshare=1&scene=23&srcid=11292R1RvlXXkPKBqMnPLCsP&sharer_sharetime=1638182754594&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd  ':target=_blank') 
