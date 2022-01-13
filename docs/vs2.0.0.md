@@ -16,7 +16,9 @@
 
 ## ✴  12个调试效率技巧
 
-[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484580&idx=3&sn=79f2526d9e30694307ba9574801e6abd&chksm=a69877e991effeff4403ba452953b478e6c3d0f0acd527c13d514122402ae2ab0cd937cc432f&mpshare=1&scene=23&srcid=0121yDYjvJk4USlUBvbYyoMI&sharer_sharetime=1611213164683&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') 
+- [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247484580&idx=3&sn=79f2526d9e30694307ba9574801e6abd&chksm=a69877e991effeff4403ba452953b478e6c3d0f0acd527c13d514122402ae2ab0cd937cc432f&mpshare=1&scene=23&srcid=0121yDYjvJk4USlUBvbYyoMI&sharer_sharetime=1611213164683&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') 
+
+- [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654087470&idx=7&sn=5e654f5a1453d71f2bc70c21af3a5bc9&chksm=80d80d7bb7af846d4ec10e89ddbec3b345cdd8e4cda6539b16b47bdd18c0246d0ed6e5348f5f&mpshare=1&scene=23&srcid=0113vuK9baSkDfNn7OIqtFPL&sharer_sharetime=1642032234481&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') VS2019 调试技巧之附加进程
 
 ## ✴  相关插件安装
 
