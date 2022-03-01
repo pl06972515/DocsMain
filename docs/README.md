@@ -38,7 +38,7 @@
 
 6. **Markdown 常用语法** 
 
-   标题规范
+   - 标题规范
 
    ```markdown
    <br/>
@@ -52,7 +52,7 @@
    
    ```
 
-   提示 & 警告( Alter )
+   - 提示 & 警告( Alter )
 
    ```markdown
    [!NOTE|style: flat|label: 提示信息]
@@ -60,7 +60,7 @@
    [!WARNING|style: flat|label: 警告信息]
    ```
 
-   插入图片 & 链接
+   - 插入图片 & 链接
 
    ```markdown
    <!--云盘下载-->
@@ -77,7 +77,7 @@
    ![图片说明](图片地址 ':size=10%')   <!--支持按百分比缩放-->
    ```
 
-   折叠显示
+   - 折叠显示
 
    ```markdown
    <details> <summary>自我评价（点击展开）</summary> 
@@ -91,7 +91,7 @@
    </details>
    ```
 
-   Tab 选项卡
+   - Tab 选项卡
 
    ```markdown
    <!-- tabs:start -->
@@ -113,7 +113,27 @@
    <!-- tabs:end -->
    ```
 
+   - 徽章生成器
+
+   ```markdown
+   <!-- NuGet -->
+   <a href="https://www.baidu.com" target="_blank"><img src="https://img.shields.io/badge/NuGet-v1.0.0-orange?style=plastic&labelColor=004880&logo=NuGet" /></a>
    
+   <!-- UML -->
+   <a href="https://www.baidu.com" target="_blank"><img src="https://img.shields.io/badge/UML-FCC624?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABX0lEQVQ4T52TPyvFcRTGP49MSmTwp7wHFouFQXeQVyBJyrW4g0IGt+vPIMnkLiiJwQsw3JJSBiPlBVgxKINFqUfn9vvdfq7/vuPpnM85z3POV/zi2e6UdP9Zqn6qt90IPAErkjbr838DGATOgWFJlf8A1oFZoEXSy7cA21NAPzApyZFs+wp4BHLAPnApaS8F1STYngG2gUNgIgC224EHYB7YAg6AcSCfQqoA23NAGBTk6Uz3MeAI6JF0Yzvyd4CYtCCpHG2KwCpQllTIarQdxTlJHXXx3QRSDMASsPYFIMavSJqoA4TUkFxMJZSA5awE273ANTAq6TiRmpVQkrSaNTGlVk0EFoBYYZukp0R/amJN7rtDsh3F3cAQcAY0S+pLujcAp8CtpPyHNWaSmmIxyfluSAqPqs92M/Ccbilin56y7RHgBBiQdPHdf/kKsAhE51ZJr38GJON2Sbr76be+ARXylwMoSE5uAAAAAElFTkSuQmCC" /></a>
+       
+   <!-- 程序版本 -->
+   ![版本信息](https://img.shields.io/badge/version-v1.0.0-brightgre?style=plastic)
+    
+   <!-- 工具版本 -->
+   ![版本信息](https://img.shields.io/badge/ExtJs-v1.0.0-blue?style=plastic)
+       
+   
+   ```
+
+   
+
+   <br/>
 
    
 
