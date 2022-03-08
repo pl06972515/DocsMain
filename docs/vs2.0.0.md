@@ -12,6 +12,8 @@
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086664&idx=3&sn=111352cb72a6f92383fb1ae47ba98f21&chksm=80d8025db7af8b4b0f09d79de991ea022f4c016a4ab8471914f58fcca485d51acc2162e263f8&mpshare=1&scene=23&srcid=1109qwsLgxcOLAUkcFgAJZcT&sharer_sharetime=1636427556810&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') <span style='color:red'>Visual Studio 2022发布了，我最爱的5大特性</span>
 
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654088332&idx=2&sn=23f2838438480fac194da40c392e0c15&chksm=80d808d9b7af81cff0b74b37eeb82978f452ed648d2f2a621626b268e61a52ff673bf7912e8e&mpshare=1&scene=23&srcid=0308JepeytLjSHm0UIYTKl3q&sharer_sharetime=1646698242267&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') <span style='color:red'>编译时将[ 特定警告 ]变成为错误</span>
+
 
 
 ## ✴  12个调试效率技巧
