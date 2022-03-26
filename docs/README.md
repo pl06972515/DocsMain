@@ -134,6 +134,22 @@
    
    ```
 
+   - 类库图标
+
+   ```markdown
+   - <span class='class'>自定义类型</span>
+   - <span class='interface'>抽象接口</span>
+   - <span class='static'>静态类型</span>
+   - <span class='attributeClass'>标注特性</span>
+   
+   - [<span class='class'>自定义类型</span>](c1.0.0)
+   - [<span class='interface'>抽象接口</span>](i1.0.0)
+   - [<span class='static'>静态类型</span>](e1.0.0)
+   - [<span class='attributeClass'>标注特性</span>](a1.0.0)
+   
+   
+   ```
+
    
 
    <br/>
