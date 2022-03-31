@@ -18,23 +18,47 @@
    docsify serve ./ -p 3000
    ```
 
-5. **<span style='color:Blue'>[ Git ]提交模板</span>**
+5. **<span style='color:Blue'>[ Git ]开发规范</span>**
 
-   ```txt
-   [新增功能 | 异常修复 | 代码变更 | 代码重构 | 档案更新 | 其他操作] - ALL | Loation | Module: 基本描述
-   
-     - 详细-具体的修改描述
-     -
-     -
-   
-   备注: Issues< #1 >
-   ```
-
-   >[!NOTE|style: flat|label: 范围注解]
+   >[!NOTE|style: flat|label: 简要说明]
    >
-   >- ALL: 影响面大 (`改动较大, 对整个程序产生影响较大`)
-   >- Loation: 影响小(`某个小的功能变动`)
-   >- Module: 影响某个模块(`如登录模块、首页模块 、用户管理模块等等`)
+   >- `GIT`模板规范
+   >
+   >```tex
+   >[ 新增功能(代号 Gx) | 功能变更(代号 Gx) | 异常修复(Ex) | 版本发布 ] - 提交标题
+   >
+   >  - 详细描述( 具体影响变动 )
+   >  -
+   >  -
+   >
+   >备注: Issues< #1 >
+   >
+   >```
+   >
+   >---
+   >
+   ><span style='color:red'>[`SourceTree`代码提交步骤 ]</span>
+   >
+   >- 初始化`GIT`仓库，提交初始版本`[ 版本初始 ] - v1.0.0`
+   >
+   >- 初始化`Git Flow`工作流，转到[`开发环境`]
+   >
+   >  ![image-20220331145312532](wwwroot/DocImages/image-20220331145312532.png)
+   >
+   >  
+   >
+   >- [`功能开发：Gx-yyyyMMdd.HHmmss`] [`最终合并 - 开发环境`]
+   >
+   >- [`异常修复：Ex-yyyyMMdd.HHmmss`] [`最终合并 - 开发环境`]
+   >- [`版本发布：v1.0.0`] [`最终合并 - 开发环境 | 正式环境`]
+   >
+   >
+   >
+   ><br/>
+
+   
+
+   
 
 6. **Markdown 常用语法** 
 
