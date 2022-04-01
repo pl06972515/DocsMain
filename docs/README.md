@@ -22,14 +22,16 @@
 
    >[!NOTE|style: flat|label: 简要说明]
    >
+   >- [<span style='color:#008B00'>[👓 VisualStudio.gitignore ]</span>](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore ':target=_blank')
+   >
    >- `GIT`模板规范
    >
    >```tex
    >[ 代码变动(G) | 代码异常(E) | 版本发布(V) | 提交忽略 ] - {G,E}{index} | v1.x.x
    >
-   >  - nameof(AClass): 增加功能 AClass( 具体变动 )
-   >  - nameof(AClass.Print): 变更功能, 内部修改( 具体变动 )
-   >  - nameof(AClass.Print): 异常修复, 内部修改( 具体变动 )
+   > - nameof(AClass): 增加功能 AClass( 具体变动 )
+   > - nameof(AClass.Print): 变更功能, 内部修改( 具体变动 )
+   > - nameof(AClass.Print): 异常修复, 内部修改( 具体变动 )
    >
    >备注: Issues< #1 >
    >
@@ -43,9 +45,9 @@
    >
    >- 初始化`Git Flow`工作流，转到[`开发环境`]
    >
-   >  ![image-20220331145312532](wwwroot/DocImages/image-20220331145312532.png)
+   > ![image-20220331145312532](wwwroot/DocImages/image-20220331145312532.png)
    >
-   >  
+   >
    >
    >- [`代码变动：G{index}`] [`最终合并 - 开发环境`]
    >
