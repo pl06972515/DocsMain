@@ -35,6 +35,6 @@
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086830&idx=6&sn=a72f58f59c8f934e25a3da6f5efd3135&chksm=80d802fbb7af8bedb229375a5f4ac3e3268cdba44d3cfc615b5ad9c901b6567dc193f8e0ffeb&mpshare=1&scene=23&srcid=1129cU3jdsPPCeG8s05Ohbyt&sharer_sharetime=1638182580582&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd  ':target=_blank') 
 
-## ✴ <span style='color:red'>.NET`GC`实时监控工具`dotnet gcmon`介绍</span>
+## ✴ <span style='color:red'>C#实用技巧之:将图标打包进DLL并读取</span>
 
-[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086870&idx=1&sn=2f9cee05f58062c43ee047937eb1ad58&chksm=80d80283b7af8b956086fe553df31c785ef0fb7d08b168b53a6e3d6e86c99a529c4fa6004786&mpshare=1&scene=23&srcid=11292R1RvlXXkPKBqMnPLCsP&sharer_sharetime=1638182754594&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd  ':target=_blank') 
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654090031&idx=4&sn=643e9aad1c6ddd603eb5af4fadbba132&chksm=80d8177ab7af9e6c6bf6bebcc88f93b4ea64512ffcfef69acaad56ebc2ed85f430427176d738&mpshare=1&scene=23&srcid=0514wGqQMaD6O1XGvZSsqvae&sharer_sharetime=1652500958879&sharer_shareid=a6c83a6b87e114417312bf85e473adcb#rd  ':target=_blank') 
