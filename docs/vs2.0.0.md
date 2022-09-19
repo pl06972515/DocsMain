@@ -31,6 +31,10 @@
 
 - [<span style='color:#008B00'>[👓 查看详情 ]</span>](https://mp.weixin.qq.com/s?__biz=MzU2OTY3MTYzOA==&mid=2247489128&idx=1&sn=5fe07adc412d144c24fb68242966530a&chksm=fcfa7cd1cb8df5c754eaf16eeb2d347896be22cb064cf3d40358b9e1986e150e558c31c0b59c&mpshare=1&scene=23&srcid=0923j3iLxlE4bIn6OnVVdK3e&sharer_sharetime=1632357134389&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank')<span style='color:red'>`Visual Studio`的奇淫技巧</span>
 
+- [<span style='color:#008B00'>[👓 查看详情 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654093482&idx=7&sn=b8afe9a71eed11b8e0e246d8d61b501c&chksm=80d864ffb7afede99f0b159937102d5a77b9ec778124f4e3c110c6e53e30ff4da35e8a4e7153&mpshare=1&scene=23&srcid=0914Y7T3bV7MQpfrOSXy6B98&sharer_sharetime=1663118137399&sharer_shareid=a6c83a6b87e114417312bf85e473adcb#rd ':target=_blank')<span style='color:red'>5个超实用的Visual Studio插件</span>
+
+- 
+
 ## ✴ <span style='color:red'>C# 用`IrisSkin4.dll`美化你的`WinForm`</span>
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654086830&idx=6&sn=a72f58f59c8f934e25a3da6f5efd3135&chksm=80d802fbb7af8bedb229375a5f4ac3e3268cdba44d3cfc615b5ad9c901b6567dc193f8e0ffeb&mpshare=1&scene=23&srcid=1129cU3jdsPPCeG8s05Ohbyt&sharer_sharetime=1638182580582&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd  ':target=_blank') 
