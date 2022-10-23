@@ -19,7 +19,9 @@
 -  [✡ MongoDB](e8.0.0)
 -  [✡ RabbitMQ](e9.0.0)
 -  [✡ 原则规范](e6.0.0)
--  
+-  -
+-  [✡ JavaScript](e10.0.0)
+-  -
 -  <span style='color:Blue'>🛠Vs Code</span>
 -  [✡ 配置插件](vs1.0.0)
 -  
