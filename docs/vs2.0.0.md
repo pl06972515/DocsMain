@@ -14,6 +14,10 @@
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654088332&idx=2&sn=23f2838438480fac194da40c392e0c15&chksm=80d808d9b7af81cff0b74b37eeb82978f452ed648d2f2a621626b268e61a52ff673bf7912e8e&mpshare=1&scene=23&srcid=0308JepeytLjSHm0UIYTKl3q&sharer_sharetime=1646698242267&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') <span style='color:red'>编译时将[ 特定警告 ]变成为错误</span>
 
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654095180&idx=4&sn=c4106ba3f652953a998c205cb9cc8082&chksm=80d86319b7afea0f0941d4418900f5abdb8dc23af6c7e0f1cfedc50b971bd2c25248a028e5f3&mpshare=1&scene=23&srcid=0108jThJ20rX82EJef5mE72v&sharer_sharetime=1673140232523&sharer_shareid=a6c83a6b87e114417312bf85e473adcb#rd ':target=_blank') <span style='color:red'>VS2022 extensions - CodeMaid</span>
+
+
+
 
 
 ## ✴  12个调试效率技巧
