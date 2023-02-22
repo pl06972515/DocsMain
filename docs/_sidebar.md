@@ -29,8 +29,9 @@
 -  [✡ 常用配置](vs2.0.0)
 -  
 -  <span style='color:Blue'>⭐Links</span>
--  - [<span style='color:#008B00'>🟥开发平台</span>](http://oa.pm2.com.cn:3347 ':target=_blank')
-   - [<span style='color:#008B00'>🟥协作系统</span>](http://oa.pm2.com.cn:7780/ ':target=_blank')
+-  - [<span style='color:#008B00'>🟥档案资料</span>](https://www.processon.com/mindmap/600fdb0a1e0853507b2dbcd9 ':target=_blank')
+   - [<span style='color:#008B00'>🟥开发资料</span>](https://www.processon.com/mindmap/600fdafb7d9c085b8d60d45b ':target=_blank')
+   - -
    - [<span style='color:#008B00'>🟩Portainer</span>](http://oa.pm2.com.cn:9000 ':target=_blank')
    - [<span style='color:#008B00'>🟩Habor</span>](http://oa.pm2.com.cn:8087 ':target=_blank')
 
