@@ -1,5 +1,23 @@
 <br/>
 
+## ☢ [ 扩展插件 ] :id=H2_1
+
+| 插件名称                   |                                            |
+| -------------------------- | ------------------------------------------ |
+| `Visual Studio Theme Pack` | 主题`dark+`                                |
+| `ILSpy`                    | -                                          |
+| `Visual-Studio-Translator` | 英文翻译                                   |
+| `CodeMaid`                 | 整理代码                                   |
+| `ClaudiaIDE`               | 更换背景                                   |
+| `Output enhancer`          | [`output`窗口 ]输出的文字样式              |
+| `Viasfora`                 | 代码增加彩虹括号 + 关键字高亮              |
+| `Experimental Tools`       | 增强扩展：编码显示，智能感知，代码段等处理 |
+| `File Icons`               | [ 图标 ]代码文件                           |
+
+
+
+
+
 
 
 ## ✴  模板代码注释
