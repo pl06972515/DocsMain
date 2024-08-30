@@ -6,7 +6,6 @@
 | ------------------------------------------------------------ | ----------------------------- |
 | `Visual Studio Theme Pack`                                   | 主题`dark+`                   |
 | `ILSpy`                                                      | -                             |
-| `Visual-Studio-Translator`                                   | 英文翻译                      |
 | `CodeMaid`                                                   | 整理代码                      |
 | `ClaudiaIDE`                                                 | 更换背景                      |
 | `Output enhancer`                                            | [`output`窗口 ]输出的文字样式 |
