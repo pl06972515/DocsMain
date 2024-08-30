@@ -2,20 +2,19 @@
 
 ## ☢ [ 扩展插件 ] :id=H2_1
 
-| 插件名称                                                     |                                            |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| `Visual Studio Theme Pack`                                   | 主题`dark+`                                |
-| `ILSpy`                                                      | -                                          |
-| `Visual-Studio-Translator`                                   | 英文翻译                                   |
-| `CodeMaid`                                                   | 整理代码                                   |
-| `ClaudiaIDE`                                                 | 更换背景                                   |
-| `Output enhancer`                                            | [`output`窗口 ]输出的文字样式              |
-| `Viasfora`                                                   | 代码增加彩虹括号 + 关键字高亮              |
-| `Indent Guides for VS 2022`                                  | 对齐代码块                                 |
-| `Experimental Tools`                                         | 增强扩展：编码显示，智能感知，代码段等处理 |
-| `File Icons`                                                 | [ 图标 ]代码文件                           |
-| `[A]CodeGeeX`                                                | `AI`编程助手                               |
-| [<span style='color:#008B00'>[👓 阿里 - 通义灵码 ]</span>](https://tongyi.aliyun.com/lingma/ ':target=_blank') | `AI`编程助手                               |
+| 插件名称                                                     |                               |
+| ------------------------------------------------------------ | ----------------------------- |
+| `Visual Studio Theme Pack`                                   | 主题`dark+`                   |
+| `ILSpy`                                                      | -                             |
+| `Visual-Studio-Translator`                                   | 英文翻译                      |
+| `CodeMaid`                                                   | 整理代码                      |
+| `ClaudiaIDE`                                                 | 更换背景                      |
+| `Output enhancer`                                            | [`output`窗口 ]输出的文字样式 |
+| `Viasfora`                                                   | 代码增加彩虹括号 + 关键字高亮 |
+| `Indent Guides for VS 2022`                                  | 对齐代码块                    |
+| `File Icons`                                                 | [ 图标 ]代码文件              |
+| `[A]CodeGeeX`                                                | `AI`编程助手                  |
+| [<span style='color:#008B00'>[👓 阿里 - 通义灵码 ]</span>](https://tongyi.aliyun.com/lingma/ ':target=_blank') | `AI`编程助手                  |
 
 
 
