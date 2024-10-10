@@ -101,9 +101,13 @@
    <!--查看文档 | 脚注转向-->
    [<span style='color:#008B00'>[👓查看脚注]</span>](v2?id=t1)
    
+   <a href="wwwroot/UML/UML-A.html" target="_blank"><span style='color:#008B00'>[👓 UML ]</span></a>
+   
    ![图片说明](图片地址 ':size=50x100')
    ![图片说明](图片地址 ':size=100')
    ![图片说明](图片地址 ':size=10%')   <!--支持按百分比缩放-->
+   
+   
    ```
 
    - 折叠显示
