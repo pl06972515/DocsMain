@@ -20,7 +20,7 @@
 
 #### **Directory.Build.props**
 
-!> 统一管理项目配置 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654099976&idx=2&sn=d2b785ad887e46550f0ca9e899a7f5aa&chksm=81eda7aaf774aa67101236136527f1c133e9073bad899c5ba2fd17c0a559aaca5d1eb567156f&mpshare=1&scene=23&srcid=0903UPMcrK9uaErbFFKdEwBT&sharer_shareinfo=e333db325d5c55fd2fba0022deb2d4b7&sharer_shareinfo_first=e333db325d5c55fd2fba0022deb2d4b7#rd ':target=_blank')
+!> (`Directory.Build.props`)统一管理项目配置 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654099976&idx=2&sn=d2b785ad887e46550f0ca9e899a7f5aa&chksm=81eda7aaf774aa67101236136527f1c133e9073bad899c5ba2fd17c0a559aaca5d1eb567156f&mpshare=1&scene=23&srcid=0903UPMcrK9uaErbFFKdEwBT&sharer_shareinfo=e333db325d5c55fd2fba0022deb2d4b7&sharer_shareinfo_first=e333db325d5c55fd2fba0022deb2d4b7#rd ':target=_blank')
 
 ```csharp
 <Project>
@@ -38,7 +38,7 @@
 
 #### **Directory.Packages.props**
 
-!> 中心化的包版本管理 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://blog.csdn.net/sD7O95O/article/details/124440474  ':target=_blank')
+!> (`Directory.Packages.props`)中心化的包版本管理 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://blog.csdn.net/sD7O95O/article/details/124440474  ':target=_blank')
 
 ```csharp
 <Project>
