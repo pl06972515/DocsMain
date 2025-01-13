@@ -196,7 +196,7 @@
 
 8. 常用符号
 
-   -   → &nbsp;&nbsp;⚠ &nbsp;&nbsp;🟢&nbsp;&nbsp;✴&nbsp;&nbsp;🔸 ☢
+   -   → &nbsp;&nbsp;⚠ &nbsp;&nbsp;🟢&nbsp;&nbsp;✴&nbsp;&nbsp;🔸 ☢ ✡
 
    
 
