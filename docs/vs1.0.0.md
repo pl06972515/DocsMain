@@ -6,6 +6,8 @@
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MjM5MzI5Mzg1OA==&mid=2247487097&idx=3&sn=96aa6be93b0876bfde1aee921e394e49&chksm=a6987d3491eff422cdcf95e2bd8cc336131dbdc10542f67c01315c017f8e48249d771f30d3a3&mpshare=1&scene=23&srcid=0203ZMy0KpjCegsbiHZuuP0O&sharer_sharetime=1612350340715&sharer_shareid=59de2f213c6a6639f6a4600116f6fabf#rd ':target=_blank') 
 
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247615297&idx=2&sn=c4c4c5dceb14e8ca8593fcb01f9b57a0&chksm=ea3e0f4bd0b5a496cf9c919b3de85f6bccaa3b2b0d2cf8c518b145894e76b703dcbcbf60b3d0&mpshare=1&scene=23&srcid=0121q545KUT166tRhuYuSWiq&sharer_shareinfo=738eb833fbfe2e37769c7e4710a1f8a5&sharer_shareinfo_first=738eb833fbfe2e37769c7e4710a1f8a5#rd ':target=_blank') 60 个神级 VS Code 插件！！
+
 ## ✴  Settings Sync
 
 <span style='color:Blue'>[ 配置同步 ]</span>
