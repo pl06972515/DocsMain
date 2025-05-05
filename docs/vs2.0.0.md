@@ -20,7 +20,7 @@
 
 #### **Directory.Build.props**
 
-!> (`Directory.Build.props`)统一管理项目配置 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654099976&idx=2&sn=d2b785ad887e46550f0ca9e899a7f5aa&chksm=81eda7aaf774aa67101236136527f1c133e9073bad899c5ba2fd17c0a559aaca5d1eb567156f&mpshare=1&scene=23&srcid=0903UPMcrK9uaErbFFKdEwBT&sharer_shareinfo=e333db325d5c55fd2fba0022deb2d4b7&sharer_shareinfo_first=e333db325d5c55fd2fba0022deb2d4b7#rd ':target=_blank')
+!> (`Directory.Build.props`)统一管理项目配置 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654099976&idx=2&sn=d2b785ad887e46550f0ca9e899a7f5aa&chksm=81eda7aaf774aa67101236136527f1c133e9073bad899c5ba2fd17c0a559aaca5d1eb567156f&mpshare=1&scene=23&srcid=0903UPMcrK9uaErbFFKdEwBT&sharer_shareinfo=e333db325d5c55fd2fba0022deb2d4b7&sharer_shareinfo_first=e333db325d5c55fd2fba0022deb2d4b7#rd ':target=_blank') [<span style='color:#008B00'>[👓 Q2 ]</span>](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654101446&idx=2&sn=fcceefeae91b0a0923be8fcb5b072225&chksm=8164f4f6c8a025c3bb8b45320b59283f5edbaf2192cd2c63d4b578bfc6570d40fffe3e9ee24a&mpshare=1&scene=23&srcid=041444pbA85SjPXFaemkfV0Y&sharer_shareinfo=6c06890e44dbcb22142ac5e84a4e1990&sharer_shareinfo_first=6c06890e44dbcb22142ac5e84a4e1990#rd ':target=_blank')
 
 ```csharp
 <Project>
