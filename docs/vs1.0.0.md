@@ -8,6 +8,8 @@
 
 [<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247615297&idx=2&sn=c4c4c5dceb14e8ca8593fcb01f9b57a0&chksm=ea3e0f4bd0b5a496cf9c919b3de85f6bccaa3b2b0d2cf8c518b145894e76b703dcbcbf60b3d0&mpshare=1&scene=23&srcid=0121q545KUT166tRhuYuSWiq&sharer_shareinfo=738eb833fbfe2e37769c7e4710a1f8a5&sharer_shareinfo_first=738eb833fbfe2e37769c7e4710a1f8a5#rd ':target=_blank') 60 个神级 VS Code 插件！！
 
+[<span style='color:#008B00'>[👓查看详情]</span>](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513998&idx=1&sn=d6732b68cf1601c19368dd5eb028c0a7&chksm=967a41aa8ddcb904962d2d8e8c5b1d29d56c3773763926e5d4aad5a0330e9ec5c5608ae56495&mpshare=1&scene=23&srcid=05285kh2ivfA2bqV5DB5AoBf&sharer_shareinfo=efd73b1df4bd71e36a63743e8def9cb8&sharer_shareinfo_first=efd73b1df4bd71e36a63743e8def9cb8#rd ':target=_blank') 2025 年实用、全面的 VS Code 插件推荐
+
 ## ✴  Settings Sync
 
 <span style='color:Blue'>[ 配置同步 ]</span>
