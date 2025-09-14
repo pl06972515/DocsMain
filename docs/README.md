@@ -15,7 +15,7 @@
 4. **<span style='color:Blue'>[ Docsify ]站点启动</span>**
 
    ```shell
-   <script src="wwwroot/Js/docsify@4" type="text/javascript"></script>
+   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
    docsify serve ./ -p 3000
    
    
