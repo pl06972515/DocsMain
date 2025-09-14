@@ -3,7 +3,7 @@ window.$docsify = {
 
     repo: 'true',
     corner: {
-        url: "https://www.processon.com/mindmap/600fdb0a1e0853507b2dbcd9",
+        url: "https://github.com/pl06972515/DocsMain",
         icon: "Github", //Github Gitlab Spring 
         //icon: "https://gitee.com/s_origins/ImageStorage/raw/master/PicGo_Typora/20201220213510.png",
         //width: 40,
