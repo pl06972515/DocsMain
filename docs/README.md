@@ -15,7 +15,10 @@
 4. **<span style='color:Blue'>[ Docsify ]站点启动</span>**
 
    ```shell
+   <script src="wwwroot/Js/docsify@4" type="text/javascript"></script>
    docsify serve ./ -p 3000
+   
+   
    ```
 
 5. **<span style='color:Blue'>[ Git ]开发规范</span>**
