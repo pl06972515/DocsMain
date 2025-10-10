@@ -33,7 +33,7 @@
 -  <span style='color:Blue'>⭐Links</span>
 -  - [<span style='color:#008B00'>✴[ C ]档案资料</span>](https://www.processon.com/mindmap/600fdb0a1e0853507b2dbcd9 ':target=_blank')
    - [<span style='color:#008B00'>✴[ P ]档案资料</span>](https://www.processon.com/mindmap/67a47f5a21b30519756c8fe4 ':target=_blank')
-   - [<span style='color:#008B00'>✴[ J ]档案资料</span>](https://www.processon.com/mindmap/600fdb0a1e0853507b2dbcd9 ':target=_blank')
+   - [<span style='color:#008B00'>✴[ J ]档案资料</span>](https://www.processon.com/mindmap/68e8a78a9c29da2691df5abd ':target=_blank')
    - [<span style='color:#008B00'>🟥开发资料</span>](https://www.processon.com/mindmap/600fdafb7d9c085b8d60d45b ':target=_blank')
    - -
    - [<span style='color:#008B00'>🟩Portainer</span>](http://oa.pm2.com.cn:9000 ':target=_blank')
