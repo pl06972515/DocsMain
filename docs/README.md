@@ -15,6 +15,8 @@
 4. **<span style='color:Blue'>[ Docsify ]站点启动</span>**
 
    ```shell
+   # [ 全局安装 ] npm i docsify-cli -g ( https://docsify.js.org/#/zh-cn/quickstart )
+   
    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
    docsify serve ./ -p 3000
    
