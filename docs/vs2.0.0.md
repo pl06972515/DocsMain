@@ -2,19 +2,19 @@
 
 ## ☢ [ 扩展插件 ] :id=H2_1
 
-| 插件名称                                                     |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| `Visual Studio Theme Pack`                                   | 主题`dark+`                                                  |
-| `ILSpy`                                                      | -                                                            |
-| `CodeMaid`                                                   | 整理代码                                                     |
-| `ClaudiaIDE`                                                 | 更换背景                                                     |
-| `Output enhancer`                                            | [`output`窗口 ]输出的文字样式                                |
-| `Viasfora`                                                   | 代码增加彩虹括号 + 关键字高亮                                |
-| `Indent Guides for VS 2022`                                  | 对齐代码块                                                   |
-| `File Icons`                                                 | [ 图标 ]代码文件                                             |
-| `FileEncoding`                                               | 文件格式 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://mp.weixin.qq.com/s/EkxAdqceID7PCkNGtNSqwg ':target=_blank') |
-| `[A]CodeGeeX`                                                | `AI`编程助手                                                 |
-| [<span style='color:#008B00'>[👓 阿里 - 通义灵码 ]</span>](https://tongyi.aliyun.com/lingma/ ':target=_blank') | `AI`编程助手                                                 |
+| 插件名称                    |                                                              |
+| --------------------------- | ------------------------------------------------------------ |
+| `Visual Studio Theme Pack`  | 主题`dark+`                                                  |
+| `ILSpy`                     | -                                                            |
+| -                           |                                                              |
+| `Viasfora`                  | 代码增加彩虹括号 + 关键字高亮                                |
+| `Indent Guides for VS 2022` | 对齐代码块                                                   |
+| -                           |                                                              |
+| `File Icons`                | [ 图标 ]代码文件                                             |
+| `FileEncoding`              | 文件格式 [<span style='color:#008B00'>[👓 Q1 ]</span>](https://mp.weixin.qq.com/s/EkxAdqceID7PCkNGtNSqwg ':target=_blank') |
+| `Codist`                    | [<span style='color:#008B00'>[👓 官方下载 ]</span>](https://marketplace.visualstudio.com/items?itemName=wmj.Codist ':target=_blank') <span style='color:red'>[ 此插件需下载安装 ]</span> |
+
+
 
 <!-- tabs:start -->
 
