@@ -26,7 +26,7 @@
 -  -
 -  <span style='color:Blue'>🛠Vs Code</span>
 -  [✡ 配置插件](vs1.0.0)
--  
+-  -
 -  <span style='color:Blue'>🛠Visual Studio</span>
 -  [✡ 常用配置](vs2.0.0)
 -  
